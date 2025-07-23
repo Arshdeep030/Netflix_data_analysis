@@ -1,4 +1,4 @@
-# etflix Data Analysis Project
+# Netflix Data Analysis Project
 
 This project performs an exploratory data analysis (EDA) on the Netflix Titles dataset to uncover insights about the content available on the platform.
 
